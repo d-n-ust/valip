@@ -1,5 +1,7 @@
 # Valip
 
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.d-n-ust/valip.svg)](https://clojars.org/org.clojars.d-n-ust/valip)
+
 Valip is a validation library for Clojure. It is primarily designed to validate
 keyword-string maps, such as one might get from a HTML form.
 
